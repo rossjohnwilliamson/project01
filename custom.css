@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+body{
+	background-color:#000;
+}
+header{
+	padding:1rem;
+}
+header h1{
+	color:#fff;
+	text-align:center;
+	font-family: 'Permanent Marker', cursive;
+	text-decoration:underline;
+}
+
+section{
+
+	margin-top:3rem;
+	text-align:center;
+}
+
+
+input[type="submit"]{
+	
+	font-family: 'Permanent Marker', cursive;
+
+
+
+}
+
