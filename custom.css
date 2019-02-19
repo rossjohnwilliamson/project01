@@ -14,7 +14,7 @@ header h1{
 }
 
 section{
-
+        text-align:center;
 	margin-top:3rem;
 	
 }
@@ -22,8 +22,7 @@ section{
 
 input[type="submit"]{
 	
-	display:table;
-	margin:auto;
+	
 	font-family: 'Permanent Marker', cursive;
 
 
