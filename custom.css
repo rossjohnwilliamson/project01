@@ -16,12 +16,14 @@ header h1{
 section{
 
 	margin-top:3rem;
-	text-align:center;
+	
 }
 
 
 input[type="submit"]{
 	
+	display:table;
+	margin:auto;
 	font-family: 'Permanent Marker', cursive;
 
 
